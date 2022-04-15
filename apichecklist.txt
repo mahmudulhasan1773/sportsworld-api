@@ -1,0 +1,9 @@
+1. Show data.
+2. show data by serarch type, if search value is null then show something to user.
+3. show data dynamicaly.
+4. empty result and show current data.
+5. handle error and show something
+6. add loading spinners
+7. use bootstrap framework
+8. use async await
+
